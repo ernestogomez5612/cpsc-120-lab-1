@@ -1,7 +1,6 @@
 // Ernesto Gomez
 // ernestogomez5612@csu.fullerton.edu
 // @ernestogomez5612
-// Partners: @Amdinisi5
 
 #include <iostream>
 
